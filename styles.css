@@ -1,0 +1,122 @@
+body {
+    background-color: #3F3F3F;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+    margin: 0;
+}
+
+.container {
+    background-color: white;
+    width: 600px;
+    height: 800px;
+    margin: 60px auto;
+}
+
+.header {
+    
+    height: 80px;
+    display: flex;
+    justify-content: space-between;   
+}
+
+.icono1 {
+    width: 50px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto{
+    width: 100px;
+    height: 80px;
+    
+}
+
+.texto1 {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.texto2 {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.caja {
+    display: flex;
+}
+
+.icono2 {
+    width: 50px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.iconos-footer {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.icono-right {
+    width: 150px;
+    height: 80px;
+    display: flex;
+}
+
+.icono3 {
+    width: 50px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icono4 {
+    width: 50px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+
+.icono5 {
+    width: 50px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icono6 {
+    width: 50px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.feedback {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+}
+
+.post {
+    height: 200px;
+    padding: 0 15px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+}
