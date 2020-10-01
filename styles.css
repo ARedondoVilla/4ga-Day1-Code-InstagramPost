@@ -60,7 +60,7 @@ p {
     padding: 0 10px;
 }
 
-.icono-right {
+.iconos-left {
     width: 150px;
     height: 80px;
     display: flex;
@@ -70,7 +70,7 @@ p {
     height: 40px;
     display: flex;
     align-items: center;
-    padding-left: 15px;
+    padding: 0 15px;
 }
 
 .post {
